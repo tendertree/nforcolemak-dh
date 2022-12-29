@@ -10,9 +10,9 @@ Install
 packer
 ------
 ```
-use {"tendertree/nforcolemak"}
+use {"tendertree/nforcolemak-dh"}
 ```
 then just load in your init.lua 
 ```
-require("nforcolemak")
+require("nforcolemak-dh")
 ```
