@@ -41,7 +41,7 @@ s('v', 'r', 's', { noremap = true })
 --
 s('n', 's', '"_d', { noremap = true })
 s('v', 's', '"_d', { noremap = true })
-
+s('n', 'ss', '"_dd', { noremap = true, silent = true })
 --
 s('n', 't', 'f', { noremap = true })
 s('v', 't', 'f', { noremap = true })
