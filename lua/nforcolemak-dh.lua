@@ -39,8 +39,8 @@ s('v', 'p', 'r', { noremap = true })
 s('n', 'r', 's', { noremap = true })
 s('v', 'r', 's', { noremap = true })
 --
-s('n', 's', 'd', { noremap = true })
-s('v', 's', 'd', { noremap = true })
+s('n', 's', '"_d', { noremap = true })
+s('v', 's', '"_d', { noremap = true })
 
 --
 s('n', 't', 'f', { noremap = true })
